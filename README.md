@@ -1,2 +1,2 @@
-<h1 align="center"><img align="center" src="https://www.readermaster.com/wp-content/uploads/2018/11/click-here.gif" alt=""/><h1>
+<h1 align="center"><img align="center" src="https://www.readermaster.com/wp-content/uploads/2018/11/click-here.gif" alt=""/> <h1 align="center">Get in touch</h1><h1>
 
