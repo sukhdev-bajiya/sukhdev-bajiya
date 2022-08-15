@@ -6,7 +6,7 @@
    
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
-- 👨‍💻 My Portfolio - *[Sukhdev Bajiya]()*
+- 👨‍💻 My Portfolio - *[Sukhdev Bajiya](https://sukhdevbajiya.netlify.app/)*
 
 - 🌱 I’m currently learning *Data Structures and Algorithms.*
 
