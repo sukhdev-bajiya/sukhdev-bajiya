@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/sukhdevbajiya/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a title="bajiya4442@gmail.com" href="mailto:bajiya4442@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
  <!-- <a href="https://wa.me/918668458742" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a> -->
-  <a href="https://sukhdevbajiya.netlify.app/" target="_blank"><img align="center" src="https://cdn-icons.flaticon.com/png/128/3059/premium/3059997.png?token=exp=1660983218~hmac=6e5095d670016a4ab8e04bdf14d9a826"  width="50px" alt="portfolio" /></a>
+  <a href="https://sukhdevbajiya.netlify.app/" target="_blank"><img align="center" src="https://camo.githubusercontent.com/ae3647ed09919d79aa9b3b1db85dc73d001bf079db0f3866e484bbae19bddc89/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f32782f646f6d61696e2e706e67"  width="50px" alt="portfolio" /></a>
     
 </p>
 
