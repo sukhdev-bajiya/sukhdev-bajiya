@@ -6,7 +6,7 @@
    ## 👨🏻‍💻 About Me:
 
 <!-- <img  src="https://www.pngmart.com/files/3/Software-PNG-Transparent-Image.png" height="280px" align="right" /> -->
-<img  src="https://cutewallpaper.org/21/pixel-art-background-gif/Anime-Background-Gif-Aesthetic-City-Elkgrovesescom.gif" width="500px" align="right" />
+<img  src="https://cutewallpaper.org/21/pixel-art-background-gif/Anime-Background-Gif-Aesthetic-City-Elkgrovesescom.gif" width="400px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://sukhdevbajiya.netlify.app/)**
 
