@@ -77,6 +77,6 @@
 <br>
 <br>
 <h3 align="center"> 
-  Visitor count <br>
+  Visitor count   
   <img src="https://profile-counter.glitch.me/sukhdev-bajiya/count.svg" />
 </h3>
