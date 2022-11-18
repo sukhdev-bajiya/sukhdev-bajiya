@@ -49,9 +49,9 @@
 <h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sukhdevbajiya/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a title="bajiya4442@gmail.com" href="mailto:bajiya4442@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
- <!-- <a href="https://wa.me/918668458742" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a> -->
+  <a href="https://www.linkedin.com/in/sukhdevbajiya/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a title="bajiya4442@gmail.com" href="mailto:bajiya4442@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
+ <!-- <a href="https://wa.me/918668458742" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a> -->
   <a href="https://sukhdevbajiya.netlify.app/" target="_blank"><img align="center" src="https://camo.githubusercontent.com/ae3647ed09919d79aa9b3b1db85dc73d001bf079db0f3866e484bbae19bddc89/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f32782f646f6d61696e2e706e67"  width="50px" alt="portfolio" /></a>
    <a href="https://leetcode.com/sukhdevbajiya/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="50" /></a> 
 </p>
