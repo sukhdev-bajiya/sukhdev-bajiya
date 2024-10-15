@@ -2,7 +2,7 @@
 <h3>“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.” - Bill Gates</h3>
     <br>
     
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=800&lines=Currently+Working+as+a+Full-Stack+Developer;Open-Source+Developer;Nice+to+meet+you...)
   <br>
    ## 👨🏻‍💻 About Me:
 
@@ -14,9 +14,9 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://sukhdevbajiya.netlify.app/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I'm currently working as a `Full Stack Developer`.
 
-- 🌱 I’m currently learning `MERN Stack`
+ <!-- - 🌱 I’m currently learning `MERN Stack` -->
 
 - 👯 I’m looking to collaborate for `Projects`
 
